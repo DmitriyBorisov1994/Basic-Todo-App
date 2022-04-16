@@ -1,0 +1,10 @@
+.wrapper {
+   padding: 1rem;
+   margin: 0 auto;
+   width: 600px;
+}
+.heading {
+   color: white;
+   font-size: 2rem;
+   text-align: center;
+}

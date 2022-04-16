@@ -1,0 +1,21 @@
+.formBlock {
+   margin-bottom: 1rem;
+}
+.formInput {
+   min-height: 2rem;
+   border-radius: 0.5rem;
+   border: none;
+}
+.formButton {
+   min-height: 2rem;
+   margin-left: 1rem;
+   background-color: #e040fb;
+   color: white;
+   padding: 0.5rem 1rem;
+   border-radius: 1rem;
+   border: none;
+   cursor: pointer;
+}
+.formButton:hover {
+   background-color: #ea80fc;
+}
